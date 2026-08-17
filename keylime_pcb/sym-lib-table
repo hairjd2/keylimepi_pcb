@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "xilinx7") (type "Legacy") (uri "${KIPRJMOD}/keylimepi_symbols/xilinx7.lib") (options "") (descr ""))
+)
