@@ -4117,6 +4117,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 106.68) (xy 217.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d62d4c5d-1892-4b97-8847-ad2dc2869722")
+	)
+	(wire
+		(pts
 			(xy 100.33 181.61) (xy 109.22 181.61)
 		)
 		(stroke
@@ -4184,6 +4194,16 @@
 			(justify left bottom)
 		)
 		(uuid "6cade1b3-4cf9-42c5-a79a-7f333931e2a1")
+	)
+	(label "GND"
+		(at 196.85 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab7f8bd8-b509-4466-8f55-8d42b8952d1c")
 	)
 	(label "VCC1V8"
 		(at 144.78 173.99 0)
